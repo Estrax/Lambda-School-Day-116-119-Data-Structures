@@ -73,61 +73,61 @@ as part of this project.
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 2.  What is the runtime complexity of `ListNode.insert_before`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 3.  What is the runtime complexity of `ListNode.delete`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 4.  What is the runtime complexity of `DoublyLinkedList.add_to_head`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 5.  What is the runtime complexity of `DoublyLinkedList.remove_from_head`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 6.  What is the runtime complexity of `DoublyLinkedList.add_to_tail`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 7.  What is the runtime complexity of `DoublyLinkedList.remove_from_tail`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 8.  What is the runtime complexity of `DoublyLinkedList.move_to_front`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 9.  What is the runtime complexity of `DoublyLinkedList.move_to_end`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
 10. What is the runtime complexity of `DoublyLinkedList.delete`?
 
     It's **O(1)**. Always requires the fixed number of operations, as long as
     you execute it on node, so you don't need to traverse an entire list just to
-    do it. Then it would be **O(n)**.
+    do it. Otherwise it would be **O(n)**.
 
     **a)** Compare the runtime of the doubly linked list's `delete` method with
     the worst-case runtime of the JS `Array.splice` method. Which method
